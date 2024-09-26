@@ -1,0 +1,71 @@
+/* new year banner */
+.banner {
+    /* background-image: url('../images/Banner\ Image.png'); */
+    width: 1320px;
+    height: 600px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 280px;
+    margin-right: 00px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
+}
+
+.new-year {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.year-party {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+/* section */
+.section {
+    text-align: center;
+}
+
+.off {
+    color: #F00;
+    font-family: Inter;
+    font-size: 70px;
+
+}
+
+.holidays-deal {
+    color: #F00;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.categories {
+    color: #070211;
+    font-family: Inter;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+/* SECOND BANNER */
+.sec-banner {
+background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png'), url('../images/Group\ 70.png');
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin-left: 280px;
+    margin-right: 280px;
+}  
+.secondbanner{
+    display: flex;
+}
+   
