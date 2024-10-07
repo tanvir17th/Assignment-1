@@ -63,9 +63,41 @@ background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('
     height: 600px;
     flex-shrink: 0;
     margin-left: 280px;
-    margin-right: 280px;
+    display: flex;
 }  
 .secondbanner{
-    display: flex;
+    /* display: flex; */
 }
-   
+.year{
+    width: 300px;
+    height: 400px;
+    padding-right: 80px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.party-paragraph{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.year-party-welcome{
+    color: #FFF;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+}
+.just-now{
+    color: #FFF;
+text-align:;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+}
+.party{
+    padding: 120px 120px ;
+    
+}
